@@ -1,0 +1,5 @@
+python3-random-quote (0.0.1) bionic; urgency=medium
+
+  * Initial release.
+
+ -- Thomas Stringer <thstring@microsoft.com>  Mon, 05 Aug 2019 14:47:24 -0400
