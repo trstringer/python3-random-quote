@@ -1,7 +1,0 @@
-#!/bin/bash
-
-SCRIPT_PATH=$(dirname "$(realpath "$0")")
-
-echo "Installing the package..."
-
-python3 "$SCRIPT_PATH/../setup.py" install
