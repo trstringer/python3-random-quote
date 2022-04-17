@@ -1,5 +1,5 @@
-python3-random-quote (0.0.6) bionic; urgency=medium
+python3-gitbro (0.0.1) bionic; urgency=medium
 
   * Additional release.
 
- -- Thomas Stringer <thstring@microsoft.com>  Mon, 05 Aug 2019 14:47:24 -0400
+ -- Rafael Boszko <rafael.boszko@gmail.com>  Sun, 18 Apr 2022 00:26:00 +0100
