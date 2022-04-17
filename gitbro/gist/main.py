@@ -1,5 +1,5 @@
-def run_status():
+def run():
     print('git status')
 
 if __name__ == '__main__':
-    run_status()
+    run()
